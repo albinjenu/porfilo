@@ -1,0 +1,19 @@
+.header{
+    width:100%;
+    background-color: rgb(217, 29, 29);
+    height: 150; 
+
+}
+left-section{
+    width:100px;
+    float:left;
+    height: 400px;
+    background:rgb(186, 210, 30);
+
+}
+.right-section{
+    width:2000px;
+    float:left;
+    height: 400px;
+    background-color: blue;
+}

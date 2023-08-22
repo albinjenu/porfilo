@@ -1,0 +1,23 @@
+.header{
+    background-color: #3b5998;
+    width: 200px;%;
+    heght: 200px;
+}
+body{
+    margin:0;
+
+}
+.logo{
+    width:50%;
+
+}
+.login{
+    width:50%;
+
+}
+.logo-text{
+    color:#fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration:none;
+}
